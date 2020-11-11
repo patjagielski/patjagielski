@@ -1,8 +1,12 @@
-### Hi there 👋
+
 
 [![Pat's github stats](https://github-readme-stats.vercel.app/api?username=patjagielski&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patjagielski&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on finishing uni
+- 🌱 I’m currently learning Javascript&Web Development
+- ⚡ Fun fact: American born, currently living in Poland
 <!--
 **patjagielski/patjagielski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
