@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patjagielski&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on finishing uni
+- 🔭 Finished uni, now looking to work as a frontend developer
 - 🌱 I’m currently learning Javascript&Web Development
 - ⚡ Fun fact: American born, currently living in Poland
 <!--
